@@ -1,0 +1,27 @@
+{
+  "name": "module-2",
+  "version": "1.0.0",
+  "description": "Building a backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git remote add origin https://github.com/wherearethepizzas/fashion-blog.github.io.git"
+  },
+  "keywords": [
+    "Backend",
+    "app"
+  ],
+  "author": "Kimani Mark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wherearethepizzas/fashion-blog.github.io/issues"
+  },
+  "homepage": "https://github.com/wherearethepizzas/fashion-blog.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
